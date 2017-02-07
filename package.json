@@ -1,0 +1,32 @@
+{
+  "name": "wacwav",
+  "description": "NodeJS wrapper for converting from WAC to WAV",
+  "keywords": [
+    "wac",
+    "wac",
+    "convert",
+    "transcode",
+    "encode",
+    "decode"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Alvin Sebastian",
+    "email": "a.sebastian@connect.qut.edu.au",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alvinsw/node-wacwav.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "install": "make"
+  },
+  "homepage": "https://github.com/alvinsw/node-wacwav",
+  "directories": {}
+}
