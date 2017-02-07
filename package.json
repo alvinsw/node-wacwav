@@ -28,5 +28,5 @@
     "install": "make"
   },
   "homepage": "https://github.com/alvinsw/node-wacwav",
-  "directories": {}
+  "license" : "MIT"
 }

@@ -26,3 +26,7 @@ Convert a stream:
     const wacwav = require('wacwav');
     var converter = wacwav();
     inputStream.pipe(converter).pipe(outputStream);
+
+
+## License
+MIT
